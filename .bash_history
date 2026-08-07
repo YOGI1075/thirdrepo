@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ll
 ssh-keygen
 cd .ssh
@@ -13,3 +14,17 @@ ll
 exit
 clear
 clear
+=======
+ssh-keygen
+ll
+cd .ssh
+ls 
+ls -l
+touch authorized_keys
+ls -al
+cat id_ed25519.pub
+vim authorized_keys 
+chmod 400 id_ed25519
+cp id_ed25519 test.pem
+exit
+>>>>>>> 594264a (one file)

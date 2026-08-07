@@ -12,7 +12,13 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
+<<<<<<< HEAD
 |2,0,1786098023,,"wq!"
+=======
+|2,0,1785999490,,"wq!"
+:q!
+|2,0,1785999450,,"q!"
+>>>>>>> 594264a (one file)
 
 # Search String History (newest to oldest):
 
@@ -25,6 +31,7 @@
 # Registers:
 
 # File marks:
+<<<<<<< HEAD
 '0  1  17  ~/webpage
 |4,48,1,17,1786098023,"~/webpage"
 '1  15  70  ~/index.html
@@ -57,3 +64,25 @@
 	^	15	71
 	.	15	70
 	+	15	70
+=======
+'0  1  0  ~/.ssh/authorized_keys
+|4,48,1,0,1785999490,"~/.ssh/authorized_keys"
+'1  1  0  ~/.ssh/authorized_keys
+|4,49,1,0,1785999450,"~/.ssh/authorized_keys"
+
+# Jumplist (newest first):
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1785999490,"~/.ssh/authorized_keys"
+-'  1  0  ~/.ssh/authorized_keys
+|4,39,1,0,1785999450,"~/.ssh/authorized_keys"
+
+# History of marks within files (newest to oldest):
+
+> ~/.ssh/authorized_keys
+	*	1785999488	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	103
+	+	1	0
+>>>>>>> 594264a (one file)
